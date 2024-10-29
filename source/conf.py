@@ -59,10 +59,21 @@ html_static_path = ['_static']
 html_theme_options = {
     "external_links": [
         {
+            "url": "https://deugz.github.io/SP-Label-Ecole/build/html/content/Organisation.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ⚙ Organisation",
+            "attributes": {"target": "_blank"},
+        },
+        {
+            "url": "https://deugz.github.io/SP-Label-Ecole/build/html/content/Cours.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ⚙ Cours",
+            "attributes": {"target": "_blank"},
+        },        
+        {
             "url": "https://deugz.github.io/SP-Label-Ecole/build/html/content/Projet.html",
             "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ✨ Le Projet",
             "attributes": {"target": "_blank"},
         },
+
 
     ],
     "header_links_before_dropdown": 10,    
