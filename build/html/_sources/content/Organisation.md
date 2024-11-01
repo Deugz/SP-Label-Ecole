@@ -6,9 +6,227 @@ Checker l'insertion d'un widget calendly pour permettre aux etudiants de prendre
 
 ```
 
-## Générale
+## Liens Rapides
 
 - [Drive Generale Marseille](https://drive.google.com/drive/folders/1d72yBSPIZrCdaUxw117nRBMXErGKF2tg)
+
+
+```{note}
+
+- Créer des raccourcis vers les fichiers du drive que je dois consulter souvent
+
++ doc canvas Iris
+
+```
+
+
+
+## Routine Hebdo
+
+### Emargement 
+
+```{note}
+
+Insérer les liens
+
+```
+
+- Faire signer chaque jour les feuilles d’émargement par les apprenants
+    - Scanner (téléphone)
+    - Inclure les feuilles dans la section CDP/Prepa - Administratif - Emargement - Emargement scan: [Lien Drive](https://drive.google.com/drive/folders/1spzdn-QxsXys31jNvhjheJJWLU3FfSTF)
+
+```{note}
+
+Les feuilles sont imprimés physiquement et signés manuellement par les étudiants. 
+
+- On devra passer par une étape de scan. Ou mettre les feuilles d'émargement scannés 
+
+```
+
+- Remplir le tableau de suivi 
+Formation > CDP/Prépa > Administratif > Émargement | Suivi émargement
+
+- Scanner les feuilles d’émargements signées et les ranger de manière hebdomadaire
+Formation > CDP/Prépa > Administratif > Émargement | Émargement CDP 8
+
+- En cas d’absence, scanner les justificatifs d’absence
+Formation > CDP/Prépa > Administratif > Émargement > Justificatifs d’absence | Justificatifs absences
+
+### Envoi infos aux formateurs de la semaine suivante
+
+```{note}
+
+Le vendredi pour la semaine suivante
+
+```
+
+Au début de chaque semaine, sur l’agenda, tu regardes les cours qui auront lieu la semaine suivante et tu leur envoies les infos clés + le syllabus du cours 
+
+```{note}
+
+Liens vers programme et syllabus
+
+
+```
+
+
+Nb : je programmais les mails pour qu’ils partent toujours pile une semaine avant
+Les syllabus : Formation > CDP/Prépa > Pédagogie > Syllabus | Syllabus CDP8
+Mail-type envoyé aux formateurs | Lien
+
+### Gestion feedbacks
+
+```{note}
+
+Comment on gère les feedbacks ?
+
+**idée:** 
+
+- Créer une  page pour chaque cours.
+- Implémenter le ppt et inclure un lien vers le feedback
+- Créer une section Analyse et amélioration.
+- A partir des résultats, créer un diagramme (camembert) pour mettre en lumière les résultats 
+
+
+```
+
+#### Côté apprenants 
+
+- Après chaque module, les apprenants complètent des feedbacks qui servent à assurer le suivi, mais aussi de base pour faire un retour aux formateurs. 
+    - Lien questionnaire: Typeform [Lien Typeform](https://gregoirelievens.typeform.com/to/ewAbpjB6?typeform-source=www.google.com)
+
+- Au début de la semaine, je programmais donc les mails de rappel des feedbacks à compléter par les apprenants.
+    - Mail-type envoyé aux apprenants à chaque fin de cours | Lien
+
+- Suivi des feedbacks apprenants
+    - Formation > CDP/Prépa > Pédagogie > Suivi qualité > Feedback apprenants > Feedback apprenant.e.s CDP 8
+    - Formation > CDP/Prépa > Pédagogie > Suivi qualité > Feedbacks apprenants > Suivi feedbacks apprenants
+
+*NB : une fois les feedbacks complétés, je supprimais au fur et à mesure les modules du Typeform pour que les apprenants s’y retrouvent plus facilement*
+
+```{admonition} Questions
+
+Est-ce que ca fout pas le bordel dans le typoforme pour les promos suivantes (est-il réuploader aux débuts de chaque promo)
+
+```
+
+- Exploitation des feedbacks apprenants 
+    - Remplir le feuillet “Global par module” > Feedback apprenant.e.s CDP 8
+
+
+#### Côté formateurs 
+
+- Après chaque module, j’envoyais sous une semaine une synthèse des feedbacks des apprenants sur le module
+    - Feedback formateurs
+
+- Je récupérais leur feedback via le typeform formateur, avec leur CV et leur preuve d’amélioration 
+    - Formation > CDP/Prépa > Pédagogie > Suivi qualité > Feedbacks formateurs
+
+
+
+### Infos RS
+
+- En début de semaine, tu peux envoyer 2 à 3 suggestions de posts RS à la personne chargée de la com’ de l’école.
+    - Linkedin [Label Ecole](https://www.linkedin.com/school/labelecole/)
+
+
+
+### Newsletter 
+
+- 1 à 2 fois par mois, tu envoies une newsletter avec les actualités de l’École. Pour cela, tu passes par MailChimp. 
+
+Sur MailChimp aller sur Campaigns puis All Campaigns. Ensuite sur la dernière newsletter, cliquer sur Replicate (petite flèche à droite de View Report). Ensuite retourner sur All Campaigns et modifier la copie.
+
+- Mise en ligne d’articles sur le site dans la partie blog.
+    - Back du site (id : admin3540) > articles > duppliquer l’article > modifier avec Elementor
+
+
+
+### Accompagnement / suivi apprenants
+
+- Toutes les 2 semaines, je faisais des entretiens individuels avec les apprenants pour savoir comment ils se sentent, où ils en sont, remédier à d’éventuelles difficultés. 
+    - Formation > CDP/Prépa > Pédagogie > Suivi qualité > Suivi apprenants
+
+- Un document avec les différents livrables et deadlines + leurs questions & demandes de relecture.
+    - Formation > CDP/Prépa > Pédagogie > Drive des apprenants > Suivi projets apprenants
+
+- Le drive des apprenants. On y retrouve diverses ressources pour les aider, notamment : 
+    - Formation > CDP/Prépa > Pédagogie > Drive des apprenants > drive général
+    - Les supports de cours
+    - Des exemples de projets des promos précédentes
+    - Une fiche d’aide à la présentation orale
+    - Un guide du cahier des charges 
+    - Exemples d’offres d’emploi & stages
+
+- Par ailleurs, les apprenants ont un drive sur lequel ils mettent leurs travaux et avancées. Tu peux ainsi regarder où ils en sont et les aider.
+    - Formation > CDP/Prépa > Pédagogie > Drive des apprenants > Projets apprenants
+
+
+
+
+## Les Petits Extras
+
+### Gestion administrative
+
+#### Entrée en formation
+
+- Chaque nouvel apprenant va t’envoyer les 5 documents suivants par mail : 
+    - CNI
+    - Justificatif de domicile
+    - Justificatif d’inscription à Pôle Emploi
+    - Justificatif d’affiliation à la sécurité sociale
+    - Photo d’identité
+
+- Une fois reçus, tu n’as qu’à les mettre sur le drive dans le dossier correspondant et rentrer leurs infos dans la base de données
+    - Formation > CDP/Prépa > Administratif
+    - Document pour suivre où tu en es : État des pièces | État des pièces Prépa 6
+    - Base de données à compléter une fois que tu as reçu les documents : Base de données 
+
+### Préparation nouvelle formation
+
+#### Recrutement des nouveaux formateurs
+
+- En amont de chaque nouvelle promotion, il faut recruter les formateurs. Pour cela, nous postons des annonces sur le site vendredi.
+- Le plus simple est de dupliquer les anciens posts avec les différentes missions en modifiant les dates.
+- Tu peux également dupliquer les syllabus de la promo passée et modifier les dates. Pour mettre le lien sur vendredi, le plus simple est de les héberger sur le site Wordpress de l’école dans la partie “Médias”. 
+- Pour suivre les cours bookés, il existe ce document (partagé avec les formateurs) : Formateurs
+
+#### Préparation du planning de la formation 
+
+- Tu vas également créer le Google Agenda avec les différents modules : tu peux inviter les formateurs qui bookent au fur et à mesure et tu partageras l’agenda avec la promo le jour de la rentrée. 
+
+### Examen final des apprenants
+
+#### La paperasse 
+
+Le fameux examen. Plusieurs petites choses à penser en amont :
+
+- Inscrire les candidats sur le site Ceres et les ajouter à la session.
+    - Pour créer un nouveau candidat : dans la barre à gauche violette > 4e onglet avec les deux bonhommes > en haut à droite bonhomme + >  rentrer les données > bien valider (attention aux bugs du site) > ajouter à la session 
+    - Pour créer une session, il faut cliquer sur l’icône dossier avec la petite étoile et cliquer sur le petit chapeau pour créer une nouvelle session. Si ça ne respecte pas le délais de 3 mois, il faut écrire à ddcs@seine-saint-denis.gouv.fr 
+
+- Préparer le livret d’évaluation et l’imprimer pour le donner au jury. 
+*NB : tu peux dupliquer ceux de la promo passée en modifiant les infos : livrets d’évaluation*
+
+- Rappeler aux apprenants que le jour J, ils doivent venir avec :
+    - leur cahier des charges relié et imprimé en 2 exemplaires 
+    - leur dossier professionnel imprimé en 2 exemplaires 
+    - leur CNI
+    - (leurs prints)
+    - Mail-type avec les infos importantes envoyé à quelques jours de l’examen aux apprenants 
+
+- Pour le jury, créer un dossier avec les différents éléments pour chaque candidat afin qu’il puisse le consulter :
+    - CDP6 > Pédagogie > Examen > Projets apprenants
+
+
+#### Les ressources pour aider les apprenants
+
+- Ressources pour préparer l’examen : Ressources
+
+- Pour aider les apprenants à remplir le dossier professionnel
+    - Le dossier professionnel (ils doivent le télécharger et ne pas le modifier)
+    - Une fiche explicative pour le remplir : Fiche explicative
+
 
 
 ## Promo
