@@ -24,6 +24,25 @@ Checker l'insertion d'un widget calendly pour permettre aux etudiants de prendre
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appaHV2ZiVVTtvDjh/shrOwdIXI73EFowWk?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+<script>
+function refreshIframe() {
+// Récupère l'élément iframe
+var iframe = document.getElementById('airtable-embed');
+
+// Génére un nouveau timestamp
+var timestamp = new Date().getTime();
+
+// Crée une nouvelle URL avec le timestamp comme paramètre
+var newSrc = "https://airtable.com/embed/your-airtable-id?t=" + timestamp;
+
+// Assigne la nouvelle URL à l'iframe pour forcer le rafraîchissement
+iframe.src = newSrc;
+}
+
+// Appelle la fonction toutes les 60 secondes
+setInterval(refreshIframe, 60000); // 60000 millisecondes = 1 minute
+</script>
+
 
 ## Routine Hebdo
 

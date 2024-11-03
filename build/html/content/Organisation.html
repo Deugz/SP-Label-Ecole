@@ -496,6 +496,24 @@ document.write(`
 <div class="section" id="calendrier">
 <h3>Calendrier<a class="headerlink" href="#calendrier" title="Permalink to this heading">#</a></h3>
 <iframe class="airtable-embed" src="https://airtable.com/embed/appaHV2ZiVVTtvDjh/shrOwdIXI73EFowWk?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<script>
+function refreshIframe() {
+// Récupère l'élément iframe
+var iframe = document.getElementById('airtable-embed');
+
+// Génére un nouveau timestamp
+var timestamp = new Date().getTime();
+
+// Crée une nouvelle URL avec le timestamp comme paramètre
+var newSrc = "https://airtable.com/embed/your-airtable-id?t=" + timestamp;
+
+// Assigne la nouvelle URL à l'iframe pour forcer le rafraîchissement
+iframe.src = newSrc;
+}
+
+// Appelle la fonction toutes les 60 secondes
+setInterval(refreshIframe, 60000); // 60000 millisecondes = 1 minute
+</script>
 </div>
 </div>
 <div class="section" id="routine-hebdo">
