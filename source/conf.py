@@ -60,12 +60,12 @@ html_theme_options = {
     "external_links": [
         {
             "url": "https://deugz.github.io/SP-Label-Ecole/build/html/content/Organisation.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ⚙ Organisation",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🔧 Organisation",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-Label-Ecole/build/html/content/Cours.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ⚙ Cours",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🎓 Cours",
             "attributes": {"target": "_blank"},
         },        
         {
@@ -106,7 +106,7 @@ html_theme_options = {
     ],
     
     "logo": {
-        "text": "",
+        "text": "&nbsp &nbsp Label Ecole",
         "image_dark": "_static/Logo/logo_SFTP.png",
         "alt_text": "",
     },

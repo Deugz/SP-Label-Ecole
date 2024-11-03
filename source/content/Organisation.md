@@ -19,6 +19,10 @@ Checker l'insertion d'un widget calendly pour permettre aux etudiants de prendre
 
 ```
 
+### Calendrier
+
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appaHV2ZiVVTtvDjh/shrOwdIXI73EFowWk?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 ## Routine Hebdo
