@@ -21,6 +21,19 @@ Checker l'insertion d'un widget calendly pour permettre aux etudiants de prendre
 
 ### Calendrier
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FParis&showPrint=0&mode=WEEK&hl=fr&src=dmRlZ3VpbkBsYWJlbC1lbW1hdXMuY28&src=Y185OWQ3Y2M0MWJhYjE4OTBlYWYyY2FhZmJjZDZjYWZiN2ZjMWRiNmZkYzI1Y2UwYmQ0ZTgzMGFmNzkwZmU1YTgxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=bG1lcmVzc2VAbGFiZWwtZW1tYXVzLmNv&color=%230B8043&color=%234285F4&color=%230B8043&color=%23AD1457" style="position: absolute; border:solid 1px #777; width:70vw; left: 15%; " height="800" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+```{note}
+
+Refaire le tableau avec les bonnes infos ... 
+
+- Créer un dropdown comment il a été construit et comment j'ai aggrégé les informations que je trouvais pertinente
+
+```
+
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appaHV2ZiVVTtvDjh/shrOwdIXI73EFowWk?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
@@ -113,6 +126,8 @@ Comment on gère les feedbacks ?
 
 ```
 
+- [Lien du feedback](https://gregoirelievens.typeform.com/to/ZAsGXKh7)
+
 #### Côté apprenants 
 
 - Après chaque module, les apprenants complètent des feedbacks qui servent à assurer le suivi, mais aussi de base pour faire un retour aux formateurs. 
@@ -135,6 +150,9 @@ Est-ce que ca fout pas le bordel dans le typoforme pour les promos suivantes (es
 
 - Exploitation des feedbacks apprenants 
     - Remplir le feuillet “Global par module” > Feedback apprenant.e.s CDP 8
+    
+    
+- [Typeform](https://admin.typeform.com/accounts/01D8JX81SY1TC6SDG4H75PK4DG/workspaces/MLv5DA)
 
 
 #### Côté formateurs 
