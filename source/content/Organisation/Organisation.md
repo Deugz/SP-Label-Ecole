@@ -1,41 +1,121 @@
 # Organisation
 
+***
+
+
+## Liens Rapides
+
+::::{grid} 3
+
+:::{grid-item-card}
+:link: https://drive.google.com/drive/folders/1d72yBSPIZrCdaUxw117nRBMXErGKF2tg
+:class-header: bg-light
+**Drive Generale Marseille** 
+^^^
+
+
+```{image} ../_static/svg-icons/google-drive.svg
+:width: 60%
+:align: center
+
+```
+
+:::
+
+:::{grid-item-card}
+:link: https://admin.typeform.com/accounts/01D8JX81SY1TC6SDG4H75PK4DG/workspaces/MLv5DA
+:class-header: bg-light
+**Typeforme** 
+^^^
+
+
+```{image} ../_static/logos/typeform_logo.png
+:width: 60%
+:align: center
+
+```
+
+:::
+
+:::{grid-item-card}
+:link: https://docs.google.com/spreadsheets/d/1V4IZFnWdjUkDSvvyVILxanfEx3ukkygM3-SKVRIUQyk/edit?gid=1946547563#gid=1946547563
+:class-header: bg-light
+**Dashboard Global**
+^^^
+
+```{image} ../_static/svg-icons/google-drive.svg
+:width: 60%
+:align: center
+
+```
+
+:::
+
+::::
+
+
+## Calendrier
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FParis&showPrint=0&mode=WEEK&hl=fr&src=dmRlZ3VpbkBsYWJlbC1lbW1hdXMuY28&src=Y185OWQ3Y2M0MWJhYjE4OTBlYWYyY2FhZmJjZDZjYWZiN2ZjMWRiNmZkYzI1Y2UwYmQ0ZTgzMGFmNzkwZmU1YTgxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=bG1lcmVzc2VAbGFiZWwtZW1tYXVzLmNv&color=%230B8043&color=%234285F4&color=%230B8043&color=%23AD1457" style="position: absolute; border:solid 1px #777; width:70vw; left: 15%; z-index: 1000;" height="800" frameborder="0" scrolling="no"></iframe>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ```{note}
 
 Checker l'insertion d'un widget calendly pour permettre aux etudiants de prendre rdv avec moi / Laurène
 
 ```
 
-## Liens Rapides
-
-- [Drive Generale Marseille](https://drive.google.com/drive/folders/1d72yBSPIZrCdaUxw117nRBMXErGKF2tg)
 
 
-```{note}
+## Routine Hebdo
 
-- Créer des raccourcis vers les fichiers du drive que je dois consulter souvent
+### To Do List Globale
 
-+ doc canvas Iris
-
-```
-
-### Calendrier
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FParis&showPrint=0&mode=WEEK&hl=fr&src=dmRlZ3VpbkBsYWJlbC1lbW1hdXMuY28&src=Y185OWQ3Y2M0MWJhYjE4OTBlYWYyY2FhZmJjZDZjYWZiN2ZjMWRiNmZkYzI1Y2UwYmQ0ZTgzMGFmNzkwZmU1YTgxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=bG1lcmVzc2VAbGFiZWwtZW1tYXVzLmNv&color=%230B8043&color=%234285F4&color=%230B8043&color=%23AD1457" style="position: absolute; border:solid 1px #777; width:70vw; left: 15%; " height="800" frameborder="0" scrolling="no"></iframe>
-
-
-
-
-```{note}
+```{admonition} La création et l'objectif de ce tableau
+:class: dropdown, note
 
 Refaire le tableau avec les bonnes infos ... 
 
-- Créer un dropdown comment il a été construit et comment j'ai aggrégé les informations que je trouvais pertinente
+- Commencer à intégrer le tableau a la date ou j'ai commencé
+
+
+- Rassembler toute les infos présentes dans [ce document](https://docs.google.com/document/d/1URNglBm9sKi2Qq9Y2IfARJ8pWYdH4I_yObu3fOP8tBg/edit?tab=t.0#heading=h.yjvveugrwr9k)
 
 ```
 
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appaHV2ZiVVTtvDjh/shrOwdIXI73EFowWk?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appaHV2ZiVVTtvDjh/shrOwdIXI73EFowWk?viewControls=on" frameborder="0" onmousewheel="" height="800" style="position: absolute; width:70vw; left: 15%; z-index: 1000; background: transparent; border: 1px solid #ccc;"></iframe>
 
 <script>
 function refreshIframe() {
@@ -57,27 +137,11 @@ setInterval(refreshIframe, 60000); // 60000 millisecondes = 1 minute
 </script>
 
 
-## Routine Hebdo
-
 ### Emargement 
-
-```{note}
-
-Insérer les liens
-
-```
 
 - Faire signer chaque jour les feuilles d’émargement par les apprenants
     - Scanner (téléphone)
     - Inclure les feuilles dans la section CDP/Prepa - Administratif - Emargement - Emargement scan: [Lien Drive](https://drive.google.com/drive/folders/1spzdn-QxsXys31jNvhjheJJWLU3FfSTF)
-
-```{note}
-
-Les feuilles sont imprimés physiquement et signés manuellement par les étudiants. 
-
-- On devra passer par une étape de scan. Ou mettre les feuilles d'émargement scannés 
-
-```
 
 - Remplir le tableau de suivi 
 Formation > CDP/Prépa > Administratif > Émargement | Suivi émargement
@@ -122,6 +186,14 @@ Comment on gère les feedbacks ?
 - Implémenter le ppt et inclure un lien vers le feedback
 - Créer une section Analyse et amélioration.
 - A partir des résultats, créer un diagramme (camembert) pour mettre en lumière les résultats 
+
+
+```
+
+
+```{warning} A faire
+
+Envoyer chaque soir le lien du feedback de la journée aux apprenants via le groupe whattsap 
 
 
 ```
@@ -321,3 +393,17 @@ Mettre en lien avec la partie projet et la section cours
 
 - Canva
 - Mattermost
+
+
+
+
+## Lancement Nouvelle Promo
+
+- [Candidature accépté](https://docs.google.com/document/d/1R8RaOoBrpcglKHk-8ZfTACh6ymAfM9Uyq4H9EecJMHc/edit?tab=t.0)
+
+```{note}
+
+Mail type à envoyer à l'apprenant.e accépté.e
+
+
+```

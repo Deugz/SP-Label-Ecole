@@ -1,9 +1,9 @@
 ---
-title: Encyclopedia 3.A
+title: Label Ecole Marseille
 myst:
   html_meta:
     "description lang=fr": |
-      Top-level documentation for the Encyclopedia 3.A project.
+      Outil organisationel et documentaire de l'antenne marseillaise de Label Ecole.
 html_theme.sidebar_secondary.remove: true
 ---
 
