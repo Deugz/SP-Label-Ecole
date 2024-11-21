@@ -58,55 +58,49 @@ html_static_path = ['_static']
 
 html_theme_options = {
     "external_links": [
-        {
-            "url": "https://deugz.github.io/SP-Label-Ecole/build/html/content/Organisation.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🔧 Organisation",
-            "attributes": {"target": "_blank"},
-        },
-        {
-            "url": "https://deugz.github.io/SP-Label-Ecole/build/html/content/Cours.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🎓 Cours",
-            "attributes": {"target": "_blank"},
-        },        
-        {
-            "url": "https://deugz.github.io/SP-Label-Ecole/build/html/content/Projet.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ✨ Le Projet",
-            "attributes": {"target": "_blank"},
-        },
-
 
     ],
-    "header_links_before_dropdown": 10,    
+    "header_links_before_dropdown": 4,    
     "icon_links": [
+        {
+            "name": "Drive",
+            "url": "https://drive.google.com/drive/folders/1Gqv0_RDXwI7om8ob1uVuu7__oYLtDHYp",
+            "icon": "fa-brands fa-google-drive",
+        },
+        {
+            "name": "Calendrier",
+            "url": "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FParis&showPrint=0&mode=WEEK&hl=fr&src=dmRlZ3VpbkBsYWJlbC1lbW1hdXMuY28&src=Y185OWQ3Y2M0MWJhYjE4OTBlYWYyY2FhZmJjZDZjYWZiN2ZjMWRiNmZkYzI1Y2UwYmQ0ZTgzMGFmNzkwZmU1YTgxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uZnJlbmNoI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=bG1lcmVzc2VAbGFiZWwtZW1tYXVzLmNv&color=%230B8043&color=%234285F4&color=%230B8043&color=%23AD1457",
+            "icon": "fa-regular fa-calendar-days",
+        },
+        {
+            "name": "To do list",
+            "url": "https://airtable.com/app7u2YxsSVP1Halh/tbl14uP4libH04pmz/viwHZ2qN4vZzxHB5M?blocks=hide",
+            "icon": "fa-solid fa-list",
+        },
+        {
+            "name": "Suivie Apprenants",
+            "url": "https://docs.google.com/spreadsheets/d/1RQA1POdFU1R2opfglS8Jq8-hK9Du7OwD/edit?gid=512740357#gid=512740357",
+            "icon": "fa-solid fa-circle-user",
+        },
         {
             "name": "Discord",
             "url": "https://github.com/Deugz/Encyclopedia-Home",
             "icon": "fa-brands fa-discord",
         },
         {
-            "name": "Drive",
-            "url": "https://github.com/Deugz/Encyclopedia-Home",
-            "icon": "fa-brands fa-google-drive",
-        },
-        {
-            "name": "Calendrier",
-            "url": "https://github.com/Deugz/Encyclopedia-Home",
-            "icon": "fa-regular fa-calendar-days",
-        },
-        {
-            "name": "Site web",
-            "url": "https://www.disqutons.fr/",
-            "icon": "fa-solid fa-globe",
-        },        
-        {
             "name": "GitHub",
             "url": "https://github.com/Deugz/Encyclopedia-Home",
             "icon": "fa-brands fa-github",
         },
+        {
+            "name": "Site web",
+            "url": "https://labelecole.fr/",
+            "icon": "fa-solid fa-globe",
+        },
     ],
     
     "logo": {
-        "text": "&nbsp &nbsp Label Ecole",
+        "text": "&nbsp &nbsp Label Ecole &nbsp &nbsp",
         "image_dark": "_static/Logo/logo_SFTP.png",
         "alt_text": "",
     },

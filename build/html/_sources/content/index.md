@@ -1,4 +1,4 @@
-# Organisation
+# 🔧 Organisation
 
 ```{toctree}
 :maxdepth: 2

@@ -12,11 +12,88 @@ html_theme.sidebar_secondary.remove: true
 :caption: Home
 :hidden:
 
-content/index
+content/Organisation/index-Orga
 ```
 
 
+```{toctree}
+:maxdepth: 2
+:caption: Home
+:hidden:
+
+content/Promo/index-Promo
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Home
+:hidden:
+
+content/Projet/index-Projet
+```
+
+
+```{toctree}
+:maxdepth: 2
+:caption: Home
+:hidden:
+
+content/Cours/index-cours
+```
+
 # Label Ecole Marseille
+
+
+***
+
+## Introduction
+
+::::{grid} 2
+
+:::{grid-item}
+:columns: 9
+
+Description du projet 
+- Pourquoi ce site ...
+
+
+```{note}
+
+Reprendre les catégorisation du projet pour expliquer. Utiliser 
+
+```
+
+:::
+
+
+:::{grid-item}
+:columns: 3
+
+Inclure section avec **informations plus générales** et mettre des liens vers:
+
+- site label école
+
+- plaquettes d'informations etc 
+
+- ...
+
+
+:::
+
+::::
+
+
+### Comment utiliser ce site
+
+
+```{note}
+
+Créer un génially avec podcast pour expliquer l'utilisation du site
+
+
+```
+
+
 
 
 ## Documents
