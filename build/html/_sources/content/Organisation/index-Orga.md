@@ -4,6 +4,16 @@
 
 ```{toctree}
 :maxdepth: 2
+:caption: Informations Générales
+:hidden:
+
+Introduction/Emmaus/Emmaus
+
+```
+
+
+```{toctree}
+:maxdepth: 2
 :caption: Outils Globaux
 :hidden:
 

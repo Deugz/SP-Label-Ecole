@@ -100,8 +100,8 @@ html_theme_options = {
     ],
     
     "logo": {
-        "text": "&nbsp &nbsp Label Ecole &nbsp &nbsp",
-        "image_dark": "_static/Logo/logo_SFTP.png",
+        "text": " &nbsp Label Ecole &nbsp ",
+        "image_dark": "_static/logos/Label-Ecole-Logo.png",
         "alt_text": "",
     },
     

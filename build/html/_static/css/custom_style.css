@@ -1,9 +1,9 @@
 :root {
     
     --primary-color: #000000; /* Couleur principale noir*/
-    --secondary-color: #9B3086; /* Couleur secondaire magenta*/
-    --tertiary-color: #CC8CB8; /* Couleur secondaire rose*/
-    --text-color: #333333; /* Couleur du texte */
+    --secondary-color:  #7C2041; /* Couleur secondaire magenta*/
+    --tertiary-color: #B3104A; /* Couleur secondaire rose*/
+    --text-color: #32323D; /* Couleur du texte */
 }
 
 body {
@@ -63,11 +63,31 @@ border-radius: 5px;
     padding: 0;
 }
 
+
+/* Modification du template */
+
+
+/* Organisation générale de la page */
+
+
+
+
+/* menu du haut */
+
 .navbar-header-items__center li {
 
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
 
+
+}
+
+/* menu de gauche */
+
+.bd-links__title {
+
+    display: none;
+    margin-bottom: 40px;
 
 }
 

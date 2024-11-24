@@ -82,7 +82,6 @@ Inclure section avec **informations plus générales** et mettre des liens vers:
 
 ::::
 
-
 ### Comment utiliser ce site
 
 
