@@ -23,7 +23,7 @@
 
 ✍  - Vincent <br> 
 🚧 - En cours<br>
-🔨 - 17/10/2024    
+🔨 - 25/11/2024    
 🕑 - 20 - 30 min <br>
 
  
@@ -73,12 +73,10 @@
 
 :::
 
-
 :::::{dropdown} Support de Cours 
 
 ::::{tab-set}
 :::{tab-item} CDP 1
-
 
 :::
 
@@ -96,6 +94,21 @@
 ::::
 
 :::::
+
+<br>
+
+```{admonition} Ingénieurie pédagogique (le Bahut)
+:class: warning, dropdown
+
+Petite phrase pour expliquer:
+
+- [Lien vers la page](Pedagogie/4-Deroule-Peda.md)
+
+```
+
+<br>
+
+***
 
 ## C'est quoi la veille ?
 
@@ -217,12 +230,31 @@ C'est une activité pour rester à jour et anticiper grâce à des informations 
 
 <p class="p-emphase">Les biais cognitifs sont des distorsions dans le traitement de l’information par notre cerveau, qui peuvent nous amener à des jugements ou des décisions irrationnelles.</p>
 
+***
+
+<br>
+
 - **Biais d’attention sélective** : Tendance à se concentrer sur certaines informations tout en en ignorant d’autres, souvent en raison de leur saillance.
 
+<br>
 
 - **Biais de confirmation** : Recherche, interprétation ou mémorisation d'informations qui confirment nos croyances, tout en ignorant celles qui les contredisent.
 
+<br>
 
+- **Effet de halo** : Tendance à juger positivement ou négativement une personne ou une chose sur la base d'une seule caractéristique (ex. : une personne sympathique est automatiquement perçue comme compétente).
+
+<br>
+
+- **Biais de mémoire sélective** : Rappel préférentiel d'événements ou d'informations en accord avec nos croyances ou émotions.
+
+<br>
+
+- **Biais d’ancrage** : Dépendance excessive à la première information reçue (l’ancre) pour prendre une décision.
+
+<br>
+
+- **Et plus encore !**
 
 :::::
 
@@ -313,7 +345,6 @@ Pendant l'examen, le jury vous demandera de justifier vos choix ! (pourquoi avez
 
 ## Quels outils pour s'informer ?
 
-
 ::::{grid}
 
 :::{grid-item}
@@ -321,11 +352,12 @@ Pendant l'examen, le jury vous demandera de justifier vos choix ! (pourquoi avez
 
 <br>
 <br>
+<br>
 
-<p class="p-emphase">En voila une bonne question ! </p>
-
+<p class="p-emphase"><strong>En voila une bonne question ! </strong></p>
 
 :::
+
 
 :::{grid-item}
 :columns: 4
@@ -338,11 +370,15 @@ Pendant l'examen, le jury vous demandera de justifier vos choix ! (pourquoi avez
 
 ::::
 
-### Internet
+### Internet bien sûr !
+
+<br>
 
 ::::{grid}
 
 :::{grid-item-card}
+:link: https://www.google.fr/
+:class-header: bg-light
 :columns: 3
 **Google**
 ^^^
@@ -354,6 +390,8 @@ Pendant l'examen, le jury vous demandera de justifier vos choix ! (pourquoi avez
 :::
 
 :::{grid-item-card}
+:link: https://www.youtube.com/
+:class-header: bg-light
 :columns: 3
 **Youtube**
 ^^^
@@ -367,6 +405,8 @@ Pendant l'examen, le jury vous demandera de justifier vos choix ! (pourquoi avez
 :::
 
 :::{grid-item-card}
+:link: https://www.linkedin.com/
+:class-header: bg-light
 :columns: 3
 **Linkedin**
 ^^^
@@ -390,28 +430,318 @@ Pendant l'examen, le jury vous demandera de justifier vos choix ! (pourquoi avez
 
 ::::
 
+<br>
 
+:::::{dropdown} Bonnes pratiques de la recherche sur internet
+
+
+::::{tab-set}
+:::{tab-item} Google
+
+- bookmarks ...
+
+:::
+
+:::{tab-item} Youtube
+
+- S'abonner
+
+:::
+
+:::{tab-item} Linkedin
+
+- Suivre des profils intéréssants
+
+:::
+
+:::{tab-item} Autres Outils
+
+- webinaires
+
+:::
+
+::::
+
+:::::
+
+<br>
 
 ### L'Intelligence Artificielle ? 
 
-- perplexity
+::::{grid} 2
 
-### Intérroge directement ta cible !
+:::{grid-item-card}
+:link: https://openai.com/index/chatgpt/
+:class-header: bg-light
+:columns: 4
+**Chat GPT**
+^^^
 
-- questionnaire
+```{image} Docs/Logos/ChatGPT_logo.svg.png
+:width: 100%
+```
 
-```{note}
++++
 
-Différents outils de questionnaires
+Avis: 🌟 🌟 ★ ★ ★
+
+:::
+
+:::{grid-item}
+:columns: 8
+
+> ChatGPT est un outil puissant pour synthétiser et expliquer rapidement des informations complexes, rendant la recherche plus rapide et accessible. Il peut aider à clarifier des sujets, explorer des idées ou fournir des pistes initiales. Cependant, il est essentiel de vérifier les informations qu’il fournit : bien qu’il s’appuie sur de vastes bases de connaissances, il peut parfois générer des réponses inexactes ou approximatives. Utilisez-le comme un point de départ, mais complétez par des sources fiables pour garantir la précision de vos recherches. 
+
+:::
+
+::::
+
+<p class="p-emphase">Le problème de ChatGPT est qu'il ne cite pas ses sources !</p>
+
+<br>
+<br>
+
+::::{grid} 2
+
+:::{grid-item-card}
+:link: https://www.perplexity.ai/
+:class-header: bg-light
+:columns: 4
+**Perplexity**
+^^^
+
+```{image} Docs/Logos/turquoise402xperplexity.ai_.png
+:width: 100%
+```
+
++++
+
+Avis: 🌟 🌟 🌟 🌟 ★
+
+:::
+
+:::{grid-item}
+:columns: 8
+
+> Perplexity est un outil de recherche assistée par IA conçu pour fournir des réponses claires et précises à vos questions, tout en s'appuyant sur des sources qu’il cite directement. Il combine la rapidité de l’IA et la transparence des références, ce qui le rend idéal pour explorer des sujets ou valider des faits. Toutefois, comme pour tout outil, il est important de croiser les informations et de vérifier la fiabilité des sources fournies pour assurer une recherche rigoureuse.
+
+
+:::
+
+::::
+
+<br>
+
+```{admonition} Attention quand on utilise l'IA !
+:class: warning, dropdown
+
+Je ne peux que vous recommander de **vérifier ce que vous dit l'IA**.
 
 
 ```
 
+<br>
+
+### Intérroge directement ta cible !
+
+
+<br>
+
+::::{grid} 2
+
+:::{grid-item}
+:columns: 8
+
+<p class="p-emphase">C'est la source d'information la plus directe, et celle sur laquel vous avez le plus de controle ! </p>
+
+:::
+
+:::{grid-item}
+:columns: 4
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@2.0.8/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/9768261c-d883-4ca4-a263-0e0789d1b50d/bhuZ7D3Jgv.json" background="##fff" speed="1" style="width: 100%; height: auto" loop autoplay direction="1" mode="normal"></lottie-player>
+
+:::
+
+::::
+
+
+#### Les Outils de questionnaires
+
+<br>
+
+::::{grid}
+
+:::{grid-item-card}
+:link: https://www.google.fr/intl/fr/forms/about/
+:class-header: bg-light
+:columns: 4
+**Google Forms**
+^^^
+
+```{image} Docs/Logos/Google_Forms_2020_Logo.svg.png
+:width: 75%
+:align: center
+```
+
+:::
+
+:::{grid-item-card}
+:link: https://www.typeform.com/
+:class-header: bg-light
+:columns: 4
+**Typeform**
+^^^
+
+<br>
+
+```{image} Docs/Logos/typeforme-logo.jpg
+:width: 100%
+```
+
+:::
+
+:::{grid-item-card}
+:link: https://fr.surveymonkey.com/
+:class-header: bg-light
+:columns: 4
+**SurveyMonkey**
+^^^
+
+<br>
+
+```{image} Docs/Logos/SurveyMonkey-Logo.png
+:width: 100%
+```
+
+:::
+
+::::
+
+<br>
+<br>
+
+:::::{dropdown} Comparaison entre les différents outils de questionnaire
+
+::::{tab-set}
+:::{tab-item} Google Forms
+
+**Pourquoi le choisir** :
+
+- Gratuit et illimité : Permet de collecter autant de réponses que nécessaire.
+- Facile d’utilisation : Interface intuitive, idéale pour créer des questionnaires rapidement.
+- Analyse intégrée : Les réponses sont automatiquement organisées dans des graphiques et peuvent être exportées vers Google Sheets pour une analyse approfondie.
+
+**Limites** : 
+
+- Moins de personnalisation visuelle et absence de fonctionnalités avancées comme la logique conditionnelle complexe.
+
+:::
+
+:::{tab-item} Typeform
+
+**Pourquoi le choisir** :
+
+- Expérience utilisateur fluide : Design interactif et attrayant, engageant pour les répondants.
+- Facile à utiliser : Interface conviviale pour la création de questionnaires esthétiques.
+- Logique conditionnelle : Permet une navigation dynamique en fonction des réponses.
+
+**Limites** : 
+
+- Limité à 10 questions et 10 réponses par mois dans la version gratuite.
+
+:::
+
+:::{tab-item} SurveyMonkey
+
+**Pourquoi le choisir** :
+
+- Professionnel et fiable : Reconnue pour sa robustesse dans les études de marché.
+- Personnalisation : Offre des modèles de questionnaires adaptés à différents secteurs.
+- Logique conditionnelle (basique) : Possibilité d’afficher des questions en fonction des réponses.
+
+**Limites** : 
+
+- La version gratuite est limitée à 10 questions par enquête et 100 réponses par questionnaire.
+
+:::
+
+
+::::
+
+:::::
+
+
+```{admonition} Bonnes pratiques quand on créé un questionnaire
+:class: dropdown, tip
+
+Créer un questionnaire efficace nécessite de suivre plusieurs bonnes pratiques pour garantir des réponses pertinentes et exploitables. Voici les principales :
+
+**1. Définir clairement ses objectifs**
+
+- Identifiez les informations précises que vous souhaitez recueillir.
+- Formulez des objectifs clairs : quelles décisions l'étude de marché va-t-elle éclairer ? (ex. : évaluer la demande, comprendre les préférences clients).
+
+**2. Connaître sa cible**
+
+- Adaptez le ton, la langue et le niveau de détail au profil des répondants.
+- Assurez-vous que les questions sont compréhensibles pour votre audience cible.
+
+
+**3. Structurer le questionnaire de manière logique**
+
+- **Commencez par des questions simples** pour mettre les répondants à l’aise.
+- Placez les questions plus complexes ou sensibles vers la fin.
+- Terminez par des questions facultatives ou ouvertes pour recueillir des idées complémentaires.
+
+
+**4. Utiliser un langage clair et précis**
+
+- Évitez les termes techniques, ambigus ou les formulations complexes.
+- Posez une seule question à la fois : privilégiez des questions directes et courtes.
+
+
+**5. Privilégier des questions fermées (mais pas exclusivement)**
+
+- Les questions à choix multiples sont plus faciles à analyser : par exemple, « Quelle est votre tranche d’âge ? ».
+- Ajoutez des options telles que « Autre : précisez » pour les réponses ouvertes si nécessaire.
+
+
+**6. Utiliser des échelles avec cohérence**
+
+- Si vous utilisez des échelles (ex. : de 1 à 5 pour évaluer une satisfaction), gardez les mêmes formats tout au long du questionnaire pour éviter de perturber les répondants.
+- Soyez explicite sur le sens de l’échelle : par exemple, « 1 = Pas du tout satisfait, 5 = Très satisfait ».
+
+
+**7. Garder le questionnaire court et engageant**
+
+- Limitez le nombre de questions : les questionnaires trop longs découragent les répondants.
+- Annoncez le temps estimé au début (idéalement 5 à 10 minutes maximum).
+
+
+**8. Éviter les biais dans les questions**
+
+- **Pas de questions orientées** : « Pourquoi pensez-vous que notre produit est le meilleur ? » pourrait influencer la réponse.
+- Proposez des options équilibrées pour les réponses (ex. : « Très satisfait, Satisfait, Neutre, Insatisfait, Très insatisfait »).
+
+**9. Tester le questionnaire**
+
+- Faites un test auprès de collègues ou d’un petit groupe de personnes représentatives de votre cible.
+- Vérifiez que les questions sont claires et qu’elles recueillent les informations attendues.
+
+
+**10. Assurer la confidentialité et encourager la participation**
+
+- Indiquez comment les données seront utilisées (ex. : « Vos réponses resteront anonymes »).
+- Si possible, offrez une incitation (ex. : un tirage au sort ou un accès à une synthèse des résultats).
+
+```
+
+<br>
 
 ## Receuil les données
 
 ### Les 2 méthodes de veille
-
 
 ::::{grid} 5
 
@@ -427,7 +757,7 @@ Différents outils de questionnaires
     
 </div>
 <div class="flashcard-back">
-<p><strong>C'est quand vous allez chercher l'information</strong>. L'utilisateur doit effectuer une démarche active pour trouver les données qui l'intéressent.
+<p><strong>C'est quand vous allez chercher l'information</strong>. <br>L'utilisateur doit effectuer une démarche active pour trouver les données qui l'intéressent.
 </p>
 </div>
 </div>
@@ -453,7 +783,7 @@ Différents outils de questionnaires
                 
 </div>
 <div class="flashcard-back">
-<p><strong>C'est quand l'information vient à vous.</strong> Les informations sont directement envoyées à l'utilisateur sans qu'il ait besoin de les chercher.</p>
+<p><strong>C'est quand l'information vient à vous.</strong> <br>Les informations sont directement envoyées à l'utilisateur sans qu'il ait besoin de les chercher.</p>
 </div>
 </div>
 </div>
@@ -468,19 +798,75 @@ Différents outils de questionnaires
 <!-- partial -->
 <script  src="../../../../_static/assets/scripts/flash-card.js"></script>
 
+<br>
 
-<p class="p-emphase">Jusqu'ici on a beaucoup parlé de la méthode pull, très importante en début de projet pour bien définir son projet mais pour continuer à rester informé (sans y passer trop de temps non plus) </p>
+<p class="p-emphase">Jusqu'ici on a vu des outils pour <strong>aller chercher de l'information</strong> (méthode pull), très importante en début de projet. Cependant, pour continuer à rester informé (sans y passer trop de temps non plus), automatisons tout ça ! </p>
 
 
 ### Automatise ta veille 
 
-- Google alert
+#### Google Alert
 
-- [Pocket](https://getpocket.com/login?src=web-auth&utm_source=https://getpocket.com/fr/saves)
+::::{grid}
 
+:::{grid-item}
+:columns: 5
+
+> 
+
+:::
+
+:::{grid-item}
+:columns: 7
+
+```{image} Docs/Images/JB-Google alert.png
+
+```
+
+:::
+
+::::
+
+#### Les Newsletters
+
+On y pense pas assé mais les newletters sont un outil très performant pour automatiser votre veille. Il faut en revanche avoir fait un travail important de recherche en amont pour sélectionner les sites leaders dans votre secteur. 
 
 
 ### Utilise ton tableau de veille
+
+<p class="p-emphase">Quand une information te parvient, et si elle te semble pertinente, inscrit la dans ton tableau de veille ! </p>
+
+
+::::{grid} 2
+
+:::{grid-item}
+:columns: 8
+
+> Une alerte google peut nous parvenir par mail à tout moment (c'est son but, de nous alerter lorsqu'une nouvelle information est disponible). En revanche, il n'est pas recommandé de stopper immédiatement l'action qu'on est en train d'effectuer pour traiter cette info. C'est en cela que le tableau de veille est utile, pour stocker l'information en attendant que vous ayez le temps de la traiter 
+
+:::
+
+
+:::{grid-item-card}
+:link: ../../../../_static/assets/a-telecharger/Tableau-de-veille-pour-CDC-Vince.xlsx
+:columns: 4
+**Tableau de veille**
+^^^
+
+```{image} Docs/Logos/256px-Microsoft_Office_Excel_(2019–present).svg.png
+:width: 100%
+
+```
+
++++
+
+Télécharger
+
+:::
+
+::::
+
+
 
 ```{note}
 
@@ -498,6 +884,7 @@ Lien pour télécharger le tableau
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 100%; padding-top: 0; height: 0;"><iframe title="Genially sans titre" frameborder="0" width="800" height="800" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/67424a09559c9e0171393c50" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
+>Le diagrammme suivant représente les différentes étapes nécéssaires a l'analyse d'une information  
 
 ### Matrice SWOT
 
@@ -506,6 +893,17 @@ Lien pour télécharger le tableau
 En fonction des resultats de ta veille tu vas voire émerger des opportunités ou des menaces, qui peuvent venir nourrir ton analyse SWOT (déja débuté au Chapitre 2 ?)
 
 ```
+
+
+```{figure} Docs/Images/SWOT_fr.svg
+---
+width: 100%
+name: matrice-SWOT
+---
+La matrice SWOT
+```
+
+
 
 
 
