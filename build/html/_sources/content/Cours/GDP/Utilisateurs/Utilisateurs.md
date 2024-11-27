@@ -52,4 +52,9 @@
 
 
 
+## Besoins
 
+- comment créer les personas
+
+- Exemple détaillé Thevy bijoux
+    - lien persona / Canvas
