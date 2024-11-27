@@ -23,7 +23,7 @@
 
 ✍  - Vincent <br> 
 🚧 - En cours<br>
-🔨 - 25/11/2024    
+🔨 - 26/11/2024    
 🕑 - 20 - 30 min <br>
 
  
@@ -343,6 +343,8 @@ Pendant l'examen, le jury vous demandera de justifier vos choix ! (pourquoi avez
 
 ```
 
+<br>
+
 ## Quels outils pour s'informer ?
 
 ::::{grid}
@@ -490,7 +492,7 @@ Avis: 🌟 🌟 ★ ★ ★
 :::{grid-item}
 :columns: 8
 
-> ChatGPT est un outil puissant pour synthétiser et expliquer rapidement des informations complexes, rendant la recherche plus rapide et accessible. Il peut aider à clarifier des sujets, explorer des idées ou fournir des pistes initiales. Cependant, il est essentiel de vérifier les informations qu’il fournit : bien qu’il s’appuie sur de vastes bases de connaissances, il peut parfois générer des réponses inexactes ou approximatives. Utilisez-le comme un point de départ, mais complétez par des sources fiables pour garantir la précision de vos recherches. 
+> ChatGPT est un outil puissant pour synthétiser et expliquer rapidement des informations complexes, rendant la recherche plus rapide et accessible. Il peut aider à clarifier des sujets, explorer des idées ou fournir des pistes initiales. Cependant, **il est essentiel de vérifier les informations qu’il fournit** : bien qu’il s’appuie sur de vastes bases de connaissances, il peut parfois générer des réponses inexactes ou approximatives. Utilisez-le comme un point de départ, mais complétez par des sources fiables pour garantir la précision de vos recherches. 
 
 :::
 
@@ -523,7 +525,7 @@ Avis: 🌟 🌟 🌟 🌟 ★
 :::{grid-item}
 :columns: 8
 
-> Perplexity est un outil de recherche assistée par IA conçu pour fournir des réponses claires et précises à vos questions, tout en s'appuyant sur des sources qu’il cite directement. Il combine la rapidité de l’IA et la transparence des références, ce qui le rend idéal pour explorer des sujets ou valider des faits. Toutefois, comme pour tout outil, il est important de croiser les informations et de vérifier la fiabilité des sources fournies pour assurer une recherche rigoureuse.
+> Perplexity est un outil de recherche assistée par IA conçu pour fournir des réponses claires et précises à vos questions, tout **en s'appuyant sur des sources qu’il cite directement**. Il combine la rapidité de l’IA et la transparence des références, ce qui le rend idéal pour explorer des sujets ou valider des faits. Toutefois, comme pour tout outil, il est important de croiser les informations et de vérifier la fiabilité des sources fournies pour assurer une recherche rigoureuse.
 
 
 :::
@@ -532,13 +534,27 @@ Avis: 🌟 🌟 🌟 🌟 ★
 
 <br>
 
-```{admonition} Attention quand on utilise l'IA !
+:::{admonition} Attention quand on utilise l'IA !
 :class: warning, dropdown
 
 Je ne peux que vous recommander de **vérifier ce que vous dit l'IA**.
 
+De plus (et on y pense pas forcément) ca consomme beaucoup d'énergie!
 
+
+
+```{figure} Docs/Images/Consommation-IA.png
+---
+width: 100%
+name: Consommation-IA
+---
+La consommation (en gramme de Carbonne) de l'IA générative **Source**: [DataforGood](https://dataforgood.fr/iagenerative/)
 ```
+
+
+
+
+:::
 
 <br>
 
@@ -739,6 +755,17 @@ Créer un questionnaire efficace nécessite de suivre plusieurs bonnes pratiques
 
 <br>
 
+> J'ai créé ce site sans forcément prendre le temps de receuillir vos besoins (il faut dire aussi que vous êtes mes cibles secondaire, la cible principale étant moi même (on en reparlera)). Permettez moi cependant de réparer cette erreur en vous proposant un petit questionnaire (à titre d'exemple) pour mieux comprendre votre ressenti vis a vis de la formation ainsi que les besoins que vous pourriez avoir.
+>
+>*Cliquez sur le bouton ci-dessous pour accéder au questionnaire*
+
+
+<br>
+
+<div class="button-container">
+  <button class="button">Le Questionnaire <br>🕑- 5 min</button>
+</div>
+
 ## Receuil les données
 
 ### Les 2 méthodes de veille
@@ -800,42 +827,122 @@ Créer un questionnaire efficace nécessite de suivre plusieurs bonnes pratiques
 
 <br>
 
-<p class="p-emphase">Jusqu'ici on a vu des outils pour <strong>aller chercher de l'information</strong> (méthode pull), très importante en début de projet. Cependant, pour continuer à rester informé (sans y passer trop de temps non plus), automatisons tout ça ! </p>
+### Les différents cas d'usage
+
+<br>
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="4-Veille-b" frameborder="0" width="1000" height="562.5" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/67461c334bc03be5580d139f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+
+<br>
+<br>
+
+
+>Jusqu'ici on a vu des outils pour **aller chercher de l'information** (méthode pull), très importante en début de projet. Cependant, pour continuer à rester informé (sans y passer trop de temps non plus), automatisons tout ça ! 
+
+
+
+
+
 
 
 ### Automatise ta veille 
 
-#### Google Alert
-
 ::::{grid}
 
-:::{grid-item}
-:columns: 5
+:::{grid-item-card}
+:link: https://www.google.fr/alerts
+:class-header: bg-light
+:columns: 4
+**Google Alert**
+^^^
 
-> 
+```{image} Docs/Logos/logo-google-alerts.png
+:width: 100%
+:align: center
+```
 
 :::
 
-:::{grid-item}
-:columns: 7
+:::{grid-item-card}
+:link: https://www.google.fr/intl/fr/forms/about/
+:class-header: bg-light
+:columns: 4
+**Les Newsletters**
+^^^
 
-```{image} Docs/Images/JB-Google alert.png
+```{image} Docs/Logos/news-530220_640.jpg
+:width: 100%
+:align: center
+```
 
+:::
+
+:::{grid-item-card}
+:link: https://www.google.fr/intl/fr/forms/about/
+:class-header: bg-light
+:columns: 4
+**Flux RSS**
+^^^
+
+```{image} Docs/Logos/256px-Rss_Shiny_Icon.svg.png
+:width: 75%
+:align: center
 ```
 
 :::
 
 ::::
 
-#### Les Newsletters
+<br>
+
+:::::{dropdown} Comparaison entre les différents outils de veille automatique
+
+::::{tab-set}
+:::{tab-item} Google Alert
+
+```{note}
+
+Insérer image
+
+```
+
+
+:::
+
+:::{tab-item} Newsletter
 
 On y pense pas assé mais les newletters sont un outil très performant pour automatiser votre veille. Il faut en revanche avoir fait un travail important de recherche en amont pour sélectionner les sites leaders dans votre secteur. 
 
 
-### Utilise ton tableau de veille
+
+
+:::
+
+:::{tab-item} Flux RSS
+
+```{note}
+
+Comment les mettre en place
+
+
+```
+
+:::
+
+
+::::
+
+:::::
+
+
+
+
+## Utilise ton tableau de veille
 
 <p class="p-emphase">Quand une information te parvient, et si elle te semble pertinente, inscrit la dans ton tableau de veille ! </p>
 
+<br>
 
 ::::{grid} 2
 
@@ -854,7 +961,8 @@ On y pense pas assé mais les newletters sont un outil très performant pour aut
 ^^^
 
 ```{image} Docs/Logos/256px-Microsoft_Office_Excel_(2019–present).svg.png
-:width: 100%
+:width: 80%
+:align: center
 
 ```
 
@@ -866,16 +974,21 @@ Télécharger
 
 ::::
 
+<br>
+<br>
 
 
-```{note}
 
-Lien pour télécharger le tableau
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGXkHUJGXw/TgaHIIPdoCTdd4CUW2IoBA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGXkHUJGXw&#x2F;TgaHIIPdoCTdd4CUW2IoBA&#x2F;view?utm_content=DAGXkHUJGXw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Domaine</a> par Vincent Deguin
 
-- Génailly pour expliquer les différentes section ?
 
-
-```
 
 ## Analyse les informations
 

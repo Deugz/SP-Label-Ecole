@@ -630,7 +630,7 @@ document.write(`
 <p><strong>Informations</strong></p>
 <p>✍  - Vincent <br>
 🚧 - En cours<br>
-🔨 - 25/11/2024<br />
+🔨 - 26/11/2024<br />
 🕑 - 20 - 30 min <br></p>
 </div>    
 <br>
@@ -915,6 +915,7 @@ C’est quoi un biais cognitif ?<div class="sd-summary-down docutils">
 <p class="first admonition-title">Car à l’examen on vous en posera beaucoup !</p>
 <p class="last">Pendant l’examen, le jury vous demandera de justifier vos choix ! (pourquoi avez vous choisi cette cible …). Avoir réaliser en amont un travail de questionnement vous aidera à aborder ces questions avec sérénité</p>
 </div>
+<br>
 </div>
 </div>
 <div class="section" id="quels-outils-pour-s-informer">
@@ -1045,7 +1046,7 @@ Autres Outils</label><div class="sd-tab-content docutils">
 </div>
 <div class="sd-col sd-d-flex-column sd-col-8 sd-col-xs-8 sd-col-sm-8 sd-col-md-8 sd-col-lg-8 docutils">
 <blockquote>
-<div>ChatGPT est un outil puissant pour synthétiser et expliquer rapidement des informations complexes, rendant la recherche plus rapide et accessible. Il peut aider à clarifier des sujets, explorer des idées ou fournir des pistes initiales. Cependant, il est essentiel de vérifier les informations qu’il fournit : bien qu’il s’appuie sur de vastes bases de connaissances, il peut parfois générer des réponses inexactes ou approximatives. Utilisez-le comme un point de départ, mais complétez par des sources fiables pour garantir la précision de vos recherches.</div></blockquote>
+<div>ChatGPT est un outil puissant pour synthétiser et expliquer rapidement des informations complexes, rendant la recherche plus rapide et accessible. Il peut aider à clarifier des sujets, explorer des idées ou fournir des pistes initiales. Cependant, <strong>il est essentiel de vérifier les informations qu’il fournit</strong> : bien qu’il s’appuie sur de vastes bases de connaissances, il peut parfois générer des réponses inexactes ou approximatives. Utilisez-le comme un point de départ, mais complétez par des sources fiables pour garantir la précision de vos recherches.</div></blockquote>
 </div>
 </div>
 </div>
@@ -1069,14 +1070,19 @@ Autres Outils</label><div class="sd-tab-content docutils">
 </div>
 <div class="sd-col sd-d-flex-column sd-col-8 sd-col-xs-8 sd-col-sm-8 sd-col-md-8 sd-col-lg-8 docutils">
 <blockquote>
-<div>Perplexity est un outil de recherche assistée par IA conçu pour fournir des réponses claires et précises à vos questions, tout en s’appuyant sur des sources qu’il cite directement. Il combine la rapidité de l’IA et la transparence des références, ce qui le rend idéal pour explorer des sujets ou valider des faits. Toutefois, comme pour tout outil, il est important de croiser les informations et de vérifier la fiabilité des sources fournies pour assurer une recherche rigoureuse.</div></blockquote>
+<div>Perplexity est un outil de recherche assistée par IA conçu pour fournir des réponses claires et précises à vos questions, tout <strong>en s’appuyant sur des sources qu’il cite directement</strong>. Il combine la rapidité de l’IA et la transparence des références, ce qui le rend idéal pour explorer des sujets ou valider des faits. Toutefois, comme pour tout outil, il est important de croiser les informations et de vérifier la fiabilité des sources fournies pour assurer une recherche rigoureuse.</div></blockquote>
 </div>
 </div>
 </div>
 <br>
 <div class="warning dropdown admonition">
 <p class="first admonition-title">Attention quand on utilise l’IA !</p>
-<p class="last">Je ne peux que vous recommander de <strong>vérifier ce que vous dit l’IA</strong>.</p>
+<p>Je ne peux que vous recommander de <strong>vérifier ce que vous dit l’IA</strong>.</p>
+<p>De plus (et on y pense pas forcément) ca consomme beaucoup d’énergie!</p>
+<div class="last figure align-default" id="consommation-ia">
+<a class="reference internal image-reference" href="../../../../_images/Consommation-IA.png"><img alt="../../../../_images/Consommation-IA.png" src="../../../../_images/Consommation-IA.png" style="width: 100%;" /></a>
+<p class="caption"><span class="caption-text">La consommation (en gramme de Carbonne) de l’IA générative <strong>Source</strong>: <a class="reference external" href="https://dataforgood.fr/iagenerative/" rel="noopener noreferrer" target="_blank">DataforGood</a></span><a class="headerlink" href="#consommation-ia" title="Permalink to this image">#</a></p>
+</div>
 </div>
 <br>
 </div>
@@ -1254,6 +1260,14 @@ SurveyMonkey</label><div class="sd-tab-content docutils">
 </ul>
 </div>
 <br>
+<blockquote>
+<div><p>J’ai créé ce site sans forcément prendre le temps de receuillir vos besoins (il faut dire aussi que vous êtes mes cibles secondaire, la cible principale étant moi même (on en reparlera)). Permettez moi cependant de réparer cette erreur en vous proposant un petit questionnaire (à titre d’exemple) pour mieux comprendre votre ressenti vis a vis de la formation ainsi que les besoins que vous pourriez avoir.</p>
+<p><em>Cliquez sur le bouton ci-dessous pour accéder au questionnaire</em></p>
+</div></blockquote>
+<br>
+<div class="button-container">
+  <button class="button">Le Questionnaire <br>🕑- 5 min</button>
+</div>
 </div>
 </div>
 </div>
@@ -1299,30 +1313,90 @@ SurveyMonkey</label><div class="sd-tab-content docutils">
 <!-- partial -->
 <script  src="../../../../_static/assets/scripts/flash-card.js"></script>
 <br>
-<p class="p-emphase">Jusqu'ici on a vu des outils pour <strong>aller chercher de l'information</strong> (méthode pull), très importante en début de projet. Cependant, pour continuer à rester informé (sans y passer trop de temps non plus), automatisons tout ça ! </p>
+</div>
+<div class="section" id="les-differents-cas-d-usage">
+<h3>Les différents cas d’usage<a class="headerlink" href="#les-differents-cas-d-usage" title="Permalink to this heading">#</a></h3>
+<br>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="4-Veille-b" frameborder="0" width="1000" height="562.5" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/67461c334bc03be5580d139f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br>
+<br>
+<blockquote>
+<div>Jusqu’ici on a vu des outils pour <strong>aller chercher de l’information</strong> (méthode pull), très importante en début de projet. Cependant, pour continuer à rester informé (sans y passer trop de temps non plus), automatisons tout ça !</div></blockquote>
 </div>
 <div class="section" id="automatise-ta-veille">
 <h3>Automatise ta veille<a class="headerlink" href="#automatise-ta-veille" title="Permalink to this heading">#</a></h3>
-<div class="section" id="google-alert">
-<h4>Google Alert<a class="headerlink" href="#google-alert" title="Permalink to this heading">#</a></h4>
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
 <div class="sd-row docutils">
-<div class="sd-col sd-d-flex-column sd-col-5 sd-col-xs-5 sd-col-sm-5 sd-col-md-5 sd-col-lg-5 docutils">
+<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<div class="sd-card-header bg-light docutils">
+<p class="sd-card-text"><strong>Google Alert</strong></p>
 </div>
-<div class="sd-col sd-d-flex-column sd-col-7 sd-col-xs-7 sd-col-sm-7 sd-col-md-7 sd-col-lg-7 docutils">
-<img alt="content/Cours/GDP/Veille/Docs/Images/JB-Googlealert.png" src="content/Cours/GDP/Veille/Docs/Images/JB-Googlealert.png" />
+<div class="sd-card-body docutils">
+<a class="reference internal image-reference" href="../../../../_images/logo-google-alerts.png"><img alt="../../../../_images/logo-google-alerts.png" class="align-center" src="../../../../_images/logo-google-alerts.png" style="width: 100%;" /></a>
+</div>
+<a class="sd-stretched-link reference external" href="https://www.google.fr/alerts" rel="noopener noreferrer" target="_blank"></a></div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<div class="sd-card-header bg-light docutils">
+<p class="sd-card-text"><strong>Les Newsletters</strong></p>
+</div>
+<div class="sd-card-body docutils">
+<a class="reference internal image-reference" href="../../../../_images/news-530220_640.jpg"><img alt="../../../../_images/news-530220_640.jpg" class="align-center" src="../../../../_images/news-530220_640.jpg" style="width: 100%;" /></a>
+</div>
+<a class="sd-stretched-link reference external" href="https://www.google.fr/intl/fr/forms/about/" rel="noopener noreferrer" target="_blank"></a></div>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<div class="sd-card-header bg-light docutils">
+<p class="sd-card-text"><strong>Flux RSS</strong></p>
+</div>
+<div class="sd-card-body docutils">
+<a class="reference internal image-reference" href="../../../../_images/256px-Rss_Shiny_Icon.svg.png"><img alt="../../../../_images/256px-Rss_Shiny_Icon.svg.png" class="align-center" src="../../../../_images/256px-Rss_Shiny_Icon.svg.png" style="width: 75%;" /></a>
+</div>
+<a class="sd-stretched-link reference external" href="https://www.google.fr/intl/fr/forms/about/" rel="noopener noreferrer" target="_blank"></a></div>
+</div>
+</div>
+</div>
+<br>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+Comparaison entre les différents outils de veille automatique<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<div class="sd-tab-set docutils">
+<input checked="checked" id="sd-tab-item-8" name="sd-tab-set-3" type="radio">
+</input><label class="sd-tab-label" for="sd-tab-item-8">
+Google Alert</label><div class="sd-tab-content docutils">
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="sd-card-text last">Insérer image</p>
+</div>
+</div>
+<input id="sd-tab-item-9" name="sd-tab-set-3" type="radio">
+</input><label class="sd-tab-label" for="sd-tab-item-9">
+Newsletter</label><div class="sd-tab-content docutils">
+<p class="sd-card-text">On y pense pas assé mais les newletters sont un outil très performant pour automatiser votre veille. Il faut en revanche avoir fait un travail important de recherche en amont pour sélectionner les sites leaders dans votre secteur.</p>
+</div>
+<input id="sd-tab-item-10" name="sd-tab-set-3" type="radio">
+</input><label class="sd-tab-label" for="sd-tab-item-10">
+Flux RSS</label><div class="sd-tab-content docutils">
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="sd-card-text last">Comment les mettre en place</p>
 </div>
 </div>
 </div>
 </div>
-<div class="section" id="les-newsletters">
-<h4>Les Newsletters<a class="headerlink" href="#les-newsletters" title="Permalink to this heading">#</a></h4>
-<p>On y pense pas assé mais les newletters sont un outil très performant pour automatiser votre veille. Il faut en revanche avoir fait un travail important de recherche en amont pour sélectionner les sites leaders dans votre secteur.</p>
-</div>
+</details></div>
 </div>
 <div class="section" id="utilise-ton-tableau-de-veille">
-<h3>Utilise ton tableau de veille<a class="headerlink" href="#utilise-ton-tableau-de-veille" title="Permalink to this heading">#</a></h3>
+<h2>Utilise ton tableau de veille<a class="headerlink" href="#utilise-ton-tableau-de-veille" title="Permalink to this heading">#</a></h2>
 <p class="p-emphase">Quand une information te parvient, et si elle te semble pertinente, inscrit la dans ton tableau de veille ! </p>
+<br>
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
 <div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 docutils">
 <div class="sd-col sd-d-flex-column sd-col-8 sd-col-xs-8 sd-col-sm-8 sd-col-md-8 sd-col-lg-8 docutils">
@@ -1335,7 +1409,7 @@ SurveyMonkey</label><div class="sd-tab-content docutils">
 <p class="sd-card-text"><strong>Tableau de veille</strong></p>
 </div>
 <div class="sd-card-body docutils">
-<a class="reference internal image-reference" href="../../../../_images/256px-Microsoft_Office_Excel_(2019–present).svg.png"><img alt="../../../../_images/256px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" src="../../../../_images/256px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" style="width: 100%;" /></a>
+<a class="reference internal image-reference" href="../../../../_images/256px-Microsoft_Office_Excel_(2019–present).svg.png"><img alt="../../../../_images/256px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" class="align-center" src="../../../../_images/256px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" style="width: 80%;" /></a>
 </div>
 <div class="sd-card-footer docutils">
 <p class="sd-card-text">Télécharger</p>
@@ -1344,14 +1418,16 @@ SurveyMonkey</label><div class="sd-tab-content docutils">
 </div>
 </div>
 </div>
-<div class="admonition note">
-<p class="first admonition-title">Note</p>
-<p>Lien pour télécharger le tableau</p>
-<ul class="last simple">
-<li>Génailly pour expliquer les différentes section ?</li>
-</ul>
+<br>
+<br>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGXkHUJGXw/TgaHIIPdoCTdd4CUW2IoBA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
 </div>
-</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGXkHUJGXw&#x2F;TgaHIIPdoCTdd4CUW2IoBA&#x2F;view?utm_content=DAGXkHUJGXw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Domaine</a> par Vincent Deguin
 </div>
 <div class="section" id="analyse-les-informations">
 <h2>Analyse les informations<a class="headerlink" href="#analyse-les-informations" title="Permalink to this heading">#</a></h2>
@@ -1471,14 +1547,11 @@ SurveyMonkey</label><div class="sd-tab-content docutils">
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#receuil-les-donnees">Receuil les données</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#les-2-methodes-de-veille">Les 2 méthodes de veille</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#automatise-ta-veille">Automatise ta veille</a><ul class="nav section-nav flex-column">
-<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#google-alert">Google Alert</a></li>
-<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#les-newsletters">Les Newsletters</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#les-differents-cas-d-usage">Les différents cas d’usage</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#automatise-ta-veille">Automatise ta veille</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#utilise-ton-tableau-de-veille">Utilise ton tableau de veille</a></li>
-</ul>
-</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#utilise-ton-tableau-de-veille">Utilise ton tableau de veille</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#analyse-les-informations">Analyse les informations</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#matrice-swot">Matrice SWOT</a></li>
 </ul>

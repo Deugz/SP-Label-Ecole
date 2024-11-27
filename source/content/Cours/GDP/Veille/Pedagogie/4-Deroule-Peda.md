@@ -20,12 +20,12 @@ L'objectif de cette formation est de faire le lien entre les concepts et les act
 
 ### Partis pris
 
-- J'ai pris le partie pris de créer un site internet qui possède toute les fonctions d'un LMS classique (plutôt que d'utiliser un LMS partenaire), puisque les apprenants doivent eux même réaliser un site et que je compte utiliser cette plateforme pour les faire réfléchir a des notions tel que l'UI, l'UX et bien d'autres concepts qu'ils auront vue en cours.
-
+- J'ai pris le partie pris de créer un site internet qui possède toute les fonctions d'un LMS classique (plutôt que d'utiliser un LMS partenaire). J'ai pris ce parti pris car les apprenants doivent eux même réaliser un site et que je compte utiliser cette plateforme pour les faire réfléchir a des notions tel que l'UI, l'UX et bien d'autres concepts qu'ils ont vue ou verront en cours.
+    - Par exemple, je vais présenter cette page et le site en générale lors d'une session d'atelier libre (le 26/11/24) qui suit les cours de webdesign, d'UX (créer la navigation) et d' UI (création de l'interface) dans le but de mettre a profit leur esprit critique et de remobiliser les notions vues lors de ces cours tout en leur fesant réviser la veille (un concept important et pourtant mal compris sur lequel ils sont en train de travailler).
 
 - Je prend le parti pris de créer un contenue pédagogique avec une forte dimension littéraire, puisque c'est un type de contenue avec lequel la plus part de mes apprenants ne sont pas familier mais qu'ils doivent pourtant utiliser pour rédiger leurs cahier des charges. 
 
-
+- J'ai pris le partie de mettre en place une granularité importante (avec des grains très court) pour faciliter les allers retours avec leur projet.
 
 
 
@@ -45,7 +45,7 @@ Pour l'écriture de ce déroulé pédagogique, je me suis inspiré de ce [templa
 ::::{grid-item}
 :columns: 6
 
-> Description succinte
+> L'introduction du module avec une brève introduction (qui remet le module en contexte) et les informations de la page. Ces dernières sont importantes car j'emploi une technique de production qui utilise le design thinking et donc des itérations régulières sont a prévoir. Enfin j'inclue dans un dropdown (pour ne pas surcharger la page), le syllabus ainsi que le/les supports de cours. 
 
 ::::
 
@@ -54,11 +54,12 @@ Pour l'écriture de ce déroulé pédagogique, je me suis inspiré de ce [templa
 
 <div id="div-colour">
 
-<strong>Sous-objectif pédagogique</strong>
+<strong>Sous-objectif pédagogique:</strong>
+<li>Introduire le module</li>
+<li>Mettre a disposition le syllabus et le support de cours</li>    
     
-    
-<strong>Intention pédagogique</strong>    
-
+<strong>Intention pédagogique:</strong>    
+<li>être concis et clair pour que l'étudiant commence sa lecture le plus rapidement possible</li>
     
 </div>    
     
@@ -72,30 +73,41 @@ Pour l'écriture de ce déroulé pédagogique, je me suis inspiré de ce [templa
 ::::{tab-item} Contenu / narration
 
 Dans cette section, je donne les information générales du module et les documents important du cours, a savoir:
-- Introduction générale (qui remet le module en contexte)
+- Introduction générale (qui remet le module en contexte):
     - La temporalité (*Aprés avoir définit notre projet, mis en place notre cahier des charges et commencer a réfléchir à nos cibles et personas, nous arrivons au chapitre important de la veille*)
     - Information sur ce que je vais aborder (*Je vais reprendre les notions importantes du cours*)
     - Information stipulant que la veille est a considérer pendant toute la durée du projet (*comment la veille peut vous être utile tout au long de votre projet*) 
+    
+- Les informations de la page:
+    - auteur
+    - état (en cours / terminé)
+    - date de dernière mise a jour
+    - temps de lecture
+    
+- Le syllabus
+- Le support de cours
+
+- **Ingénieurie pédagogique**: là, je l'ai inclue car il m'était demandé, mais je trouve intéréssant de le mettre sur toute les pages pour être transparent avec les étudiants et aussi promouvoir une approche de production collaborative. C'est aussi important pour moi pour inclure des notes, des idées d'amélioration sans pour autant surcharger le support de cours.
 
 ::::
 
 ::::{tab-item} Affichage écran 
 
-*Images/schémas etc.*
+Des sections clairement identifiables avec différentes couleurs. Des icones dans la sections informations pour diminuer la quantité de texte. Des dropdowns pour les informations consultables sur demande.
 
 ::::
 
 ::::{tab-item} Durée / Accécibilité
 
 - 🕑: 1'
-- Considération accéssibilité:
+- Considération accéssibilité: aucune
 
 
 ::::
 
 ::::{tab-item} Interactivité
 
-contenue intéractif
+Tout le monde n'ira pas relire le support de présentation ni le syllabus. Cependant c'est important pour moi de les avoir a disposition (sans avoir à fouiller dans un drive plus que chaotique a chaque itération), et c'est également important pour les apprenants qu'ils soient mis a disposition pour qu'ils puissent recouper les informations. Ainsi j'ai mis tout ca deux dropdowns (1 click). J'ai ainsi beaucoup d'informations accessible dans un espace minimale.  
 
 ::::
 
@@ -106,8 +118,6 @@ contenue intéractif
 
 
 ```
-
-
 
 ::::
 
@@ -120,7 +130,7 @@ contenue intéractif
 ::::{grid-item}
 :columns: 6
 
-> Description succinte
+> Un titre, une définition, un exemple et un résumé, de quoi commencer sur des bonnes bases non? 
 
 ::::
 
@@ -130,10 +140,13 @@ contenue intéractif
 <div id="div-colour">
 
 <strong>Sous-objectif pédagogique</strong>
+<li> Définir la veille </li>
+<li>La mettre en context avec un exemple simple et adapté</li>
     
     
 <strong>Intention pédagogique</strong>    
-
+L'intention pédagogique est d'être aussi simple et concis que possible pour que l'information soit facilement assimilable par l'étudiant
+    
     
 </div>    
     
@@ -146,20 +159,24 @@ contenue intéractif
 
 ::::{tab-item} Contenu / narration
 
-- texte
+C’est quoi la veille ? J'ai choisie cette question comme titre car plusieurs apprenants sont venues me la poser (de manière totalement légitime), et ça me semblait cohérent pour enchainer avec une définition. La définition est courte mais complète. Elle est mise en lumière avec une police importante et un texte centré sur la page.
+
+L'example et le résumé sont mis dans des petits encarts pour qu'ils soient facilement identifiables et encapsulés
 
 ::::
 
 ::::{tab-item} Affichage écran 
 
-*Images/schémas etc.*
+
+J'ai décidé de mettre une petite animation de loupe un peu circonspecte pour aérer le contenue avant un nouveau grain mais également car elle permet de faire la liaison entre les deux sections. En effet, c'est bien beau de vouloir surveiller, collecter et analyser régulièrement des informations sur un sujet précis mais encore faut-il savoir se poser les bonnes questions.
+
 
 ::::
 
 ::::{tab-item} Durée / Accécibilité
 
 - 🕑: 1'
-- Considération accéssibilité
+- Considération accéssibilité: simple, concis
 
 
 ::::
