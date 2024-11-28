@@ -58,3 +58,95 @@
 
 - Exemple détaillé Thevy bijoux
     - lien persona / Canvas
+    
+
+## Votre Problématique
+
+```{note}
+
+Lien avec le chapitre précédent (définir votre projet)
+
+```
+
+
+
+## Recherche Utilisateur
+
+### Pourquoi s'intéresser aux utilisateurs ?
+
+<p class="p-emphase"><strong>C'est primordial !!</strong></p>
+
+- **Vous n’êtes pas vos utilisateurs** (vos amis, votre famille et vos collègues non plus)
+
+- Vos décisions concernant votre produit sont souvent **biaisées**
+
+- Vous **concentrer sur le besoin et le contexte d’utilisation de votre cœur de cible** vous permettra d’aller plus vite en vous focalisant sur les fonctionnalités clés
+
+- Vous aurez davantage de facilité à trancher et à **prendre des décisions pertinentes**
+
+- Vous **mettre à la place de vos utilisateurs finaux** vous permettra d’avoir des **idées auxquelles vous n’aurez peut-être pas pensé**
+
+
+    
+#### Biais cognitifs
+
+```{note}
+
+On en reparlera au chapitre suivant ([La Veille](../Veille/Veille))
+
+
+```
+
+
+## Les Cibles
+
+- BtoB / BtoC
+
+
+## Personas
+
+### C'est quoi ?
+
+
+### Pourquoi les utiliser
+
+- **Rester concentré sur les utilisateurs**: S’assurer que les fonctionnalités ont été construites avec l’utilisateur en tête.
+
+- **Favoriser la génération d’idées**: Ils sont souvent utilisés comme supports lors de séances de brainstorming.
+
+- **Aider l’équipe à collaborer et communiquer**: Ils permettent l’établissement d’un langage commun et facilitent l’argumentation et les prises de décisions éclairées.
+
+### Construire vos personas
+
+```{warning}
+
+Il en faut au moins deux qui doievent être construites sur le canva et exporté sur le Cahier des charges
+
+
+```
+
+```{note}
+
+Créer un génially qui reprend les différentes étapes de la création:
+
+- 1 - **Recherche utilisateur**: Rassembler un maximum de données concernant vos utilisateurs cibles
+
+- 2 - **Analyse**: Recouper ces données et identifier des variables comportementales similaires et synthétiser
+
+- 3 - **Modélisation**: Créer un personnage fictif qui incarne au mieux son utilisateur cible
+
+
+```
+
+
+### Mauvaises Personas
+
+- **Personas jumeaux**: Différents en apparence mais très proches en terme de problématique de conception
+
+- **Personas élastiques**: Ils peuvent être tout le monde et personne à la fois. Leurs caractéristiques ne sont pas suffisamment précises
+
+- **Personas promotionnels**: Ils sont conçus sur la base d'idées préconçues pour justifier les choix du concepteur (biais de confirmation).
+
+- **Personas infaillibles**: Les utilisateurs rêvés, qui accomplissent leurs tâches sans erreurs et lisent les manuels d'instruction.
+
+- **Les personas "ma mère"**: Ils sont basés sur la connaissance d'une personne réelle, souvent de l'entourage du concepteur (parents ou grands-parents) pour créer des profils non technophiles.

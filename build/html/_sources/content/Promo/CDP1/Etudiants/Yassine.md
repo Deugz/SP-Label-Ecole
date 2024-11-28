@@ -33,7 +33,7 @@
 :::
 
 :::{grid-item-card}
-:link: 
+:link: https://www.canva.com/design/DAGUF2whjeg/UMWbYzex1s2EbMyUrfZnUw/view?utm_content=DAGUF2whjeg&utm_campaign=designshare&utm_medium=link&utm_source=editor
 :class-header: bg-light
 :columns: 4
 **Canva**
@@ -48,8 +48,4 @@
 
 ::::
 
-```{warning}
 
-Pas de liens Canva partagé
-
-```

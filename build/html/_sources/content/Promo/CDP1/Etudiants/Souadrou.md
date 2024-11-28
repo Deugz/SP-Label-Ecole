@@ -33,7 +33,7 @@
 :::
 
 :::{grid-item-card}
-:link: none
+:link: https://www.canva.com/design/DAGVC-n-xRE/0q0BZi3zGChnKhDIldlpoA/edit?utm_content=DAGVC-n-xRE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 :class-header: bg-light
 :columns: 4
 **Canva**
@@ -47,10 +47,3 @@
 :::
 
 ::::
-
-```{warning}
-
-Pas de liens Canva partagé ni de CDC (en cours de création)
-
-
-```

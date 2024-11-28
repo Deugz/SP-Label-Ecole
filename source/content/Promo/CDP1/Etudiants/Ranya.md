@@ -53,4 +53,6 @@
 
 CDC Fait sur Canva - confirmer que c'est possible
 
+- En fait elle pensait qu'il fallait écrire le CDC sur Canvas (va transférer le canvas sur Word)
+
 ```
