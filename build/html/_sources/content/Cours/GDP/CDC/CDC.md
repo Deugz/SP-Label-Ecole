@@ -73,3 +73,32 @@
 - Possibilité d'utiliser in Design
 
 
+
+## Pourquoi ?
+
+<p class="p-emphase">Un cahier des charges a pour objectif de <strong>formaliser un besoin</strong> afin que ce dernier soit <strong>compris par l'ensemble des acteurs</strong> impliqués dans le projet.</p>
+
+```{note}
+
+Peut être présenter les différents acteurs d'un projet e-commerce pour bien identifier les missions de chacun et illustrer le besoin de travailler en équipe
+
+```
+
+## Un cahier des charges : c'est quoi ?
+
+<p class="p-emphase">Le cahier des charges est un document contractuel entre le maître d’ouvrage et le maître d’œuvre</p>
+
+Deux types de cahier des charges:
+
+- Le cahier des charges technique
+
+- Le cahier des charges fonctionnel (CDCF)
+
+Pour bien comprendre lequel des deux vous devez réaliser et aussi parce que vous en êtes au début de votre aventure, plongeons nous dans les attendus du diplôme, et donc de ce que le jury attend de vous.
+
+```{note}
+
+Créer un génially avec les différents attendus du jury
+- séparer les différentes compétences sur chaque slide et introduire en même temps les différents attendus du cahier des charges
+
+```

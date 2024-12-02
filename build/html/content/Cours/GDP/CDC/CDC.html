@@ -503,7 +503,10 @@ document.write(`
 <li class="toctree-l1"><a class="reference internal" href="../Utilisateurs/Utilisateurs.html">3 - Identifier ses utilisateurs</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Veille/Veille.html">4 - Système de Veille</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Benchmark/Benchmark.html">5 - Benchmark Digital</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Bonus/Bonus-GDP.html">Bonus</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../Bonus/Bonus-GDP.html">Bonus</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../Bonus/Organisation/Organisation.html">Bien s’organiser</a></li>
+</ul>
+</li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">🎨 Graphisme</span></p>
 <ul class="nav bd-sidenav">
@@ -511,8 +514,8 @@ document.write(`
 <li class="toctree-l1"><a class="reference internal" href="../../Graphisme/Charte-Graphique/Charte-graphique.html">7 - Charte Graphique</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../Graphisme/Logiciels/Photoshop/Photoshop.html">8 - Photoshop</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../Graphisme/Print/Print.html">9 - Support Print</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../../Graphisme/Bonus/Bonus-Graphisme.html">Bonus</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="../../Graphisme/Bonus/Logo/Logo.html">Logo</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../Graphisme/Bonus/Bonus-Graphisme.html">Bonus</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../Graphisme/Bonus/Logo/Logo.html">Créer votre Logo!</a></li>
 </ul>
 </li>
 </ul>
@@ -522,7 +525,7 @@ document.write(`
 <li class="toctree-l1"><a class="reference internal" href="../../Design/Navigation/Navigation.html">11 - Concevoir la Navigation (UX)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../Design/Interface/Interface.html">12 - Concevoir l’Interface (UI)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../Design/Test-Utilisateur/Test-Utilisateur.html">13 - Test Utilisateur</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../../Design/Bonus/Bonus-Webdesign.html">Bonus</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../Design/Bonus/Bonus-Webdesign.html">Bonus</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../Design/Bonus/Figma/Figma.html">Figma</a></li>
 </ul>
 </li>
@@ -538,7 +541,7 @@ document.write(`
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">🔧 Developpement Web</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../../Dev-Web/RGPD/RGPD.html">18 - Droit de l’internet &amp; RGPD</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../../Dev-Web/HTML-CSS-JS/Developpement-Main.html">19 - HTML / CSS / JS</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../Dev-Web/HTML-CSS-JS/Developpement-Main.html">19 - HTML / CSS / JS</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-4"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../Dev-Web/HTML-CSS-JS/html.html">19.a - HTML</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../Dev-Web/HTML-CSS-JS/css.html">19.b - CSS</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../Dev-Web/HTML-CSS-JS/js.html">19.c - Javascript</a></li>
@@ -720,6 +723,31 @@ Autres cours</label><div class="sd-tab-content docutils">
 <li>Possibilité d’utiliser in Design</li>
 </ul>
 </div>
+<div class="section" id="pourquoi">
+<h2>Pourquoi ?<a class="headerlink" href="#pourquoi" title="Permalink to this heading">#</a></h2>
+<p class="p-emphase">Un cahier des charges a pour objectif de <strong>formaliser un besoin</strong> afin que ce dernier soit <strong>compris par l'ensemble des acteurs</strong> impliqués dans le projet.</p>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Peut être présenter les différents acteurs d’un projet e-commerce pour bien identifier les missions de chacun et illustrer le besoin de travailler en équipe</p>
+</div>
+</div>
+<div class="section" id="un-cahier-des-charges-c-est-quoi">
+<h2>Un cahier des charges : c’est quoi ?<a class="headerlink" href="#un-cahier-des-charges-c-est-quoi" title="Permalink to this heading">#</a></h2>
+<p class="p-emphase">Le cahier des charges est un document contractuel entre le maître d’ouvrage et le maître d’œuvre</p>
+<p>Deux types de cahier des charges:</p>
+<ul class="simple">
+<li>Le cahier des charges technique</li>
+<li>Le cahier des charges fonctionnel (CDCF)</li>
+</ul>
+<p>Pour bien comprendre lequel des deux vous devez réaliser et aussi parce que vous en êtes au début de votre aventure, plongeons nous dans les attendus du diplôme, et donc de ce que le jury attend de vous.</p>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p>Créer un génially avec les différents attendus du jury</p>
+<ul class="last simple">
+<li>séparer les différentes compétences sur chaque slide et introduire en même temps les différents attendus du cahier des charges</li>
+</ul>
+</div>
+</div>
 </div>
 
     <script type="text/x-thebe-config">
@@ -789,6 +817,8 @@ Autres cours</label><div class="sd-tab-content docutils">
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#besoins">Besoins</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pourquoi">Pourquoi ?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#un-cahier-des-charges-c-est-quoi">Un cahier des charges : c’est quoi ?</a></li>
 </ul>
   </nav></div>
 
