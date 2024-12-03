@@ -92,7 +92,7 @@ Deux types de cahier des charges:
 
 - Le cahier des charges technique
 
-- Le cahier des charges fonctionnel (CDCF)
+- Le cahier des charges fonctionnel (CDCF) (norme européenne NF EN 16271)
 
 Pour bien comprendre lequel des deux vous devez réaliser et aussi parce que vous en êtes au début de votre aventure, plongeons nous dans les attendus du diplôme, et donc de ce que le jury attend de vous.
 

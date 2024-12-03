@@ -57,6 +57,7 @@ html_favicon = "_static/logos/Label-Ecole-Logo.png"
 html_static_path = ['_static']
 
 html_theme_options = {
+    "analytics_id": "G-V9S9HSF9X0",  # ID Google Analytics (ça marche ?)
     "external_links": [
 
     ],

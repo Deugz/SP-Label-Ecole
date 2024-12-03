@@ -39,9 +39,15 @@ CDP1/Etudiants/Yassine
 ```
 
 
+```{image} CDP1/Docs/Emy-apprenants-CDP1.jpg
+:width: 100%
+
+
+```
+
 ```{note}
 
-Insérer un slider avec les photos de la promo
+Créer un slider image avec les différentes photos
 
 
 ```
