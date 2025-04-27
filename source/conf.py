@@ -36,13 +36,19 @@ extensions = [
   "sphinx_book_theme",
   "sphinx_togglebutton",
   "sphinx_thebe",
+  "sphinx.ext.intersphinx",
   "hoverxref.extension",
 ]
+
+import os
+intersphinx_mapping = {
+    'self': ('', os.path.join(os.getcwd(), 'build/html/objects.inv')),
+}
 
 hoverxref_auto_ref = True
 hoverxref_domains = ['std']
 
-hoverxref_intersphinx = []  # ⬅️ désactive les appels externes
+hoverxref_intersphinx = ['self']  # ⬅️ désactive les appels externes
 
 hoverxref_theme = 'tooltip'
 hoverxref_roles = ['term']
