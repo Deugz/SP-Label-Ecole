@@ -36,7 +36,16 @@ extensions = [
   "sphinx_book_theme",
   "sphinx_togglebutton",
   "sphinx_thebe",
+  "hoverxref.extension",
 ]
+
+hoverxref_auto_ref = True
+hoverxref_domains = ['std']
+
+hoverxref_intersphinx = []  # ⬅️ désactive les appels externes
+
+hoverxref_theme = 'tooltip'
+hoverxref_roles = ['term']
 
 myst_enable_extensions = ["colon_fence", "linkify", "substitution"]
 myst_heading_anchors = 2

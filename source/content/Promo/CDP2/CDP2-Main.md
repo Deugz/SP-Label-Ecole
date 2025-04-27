@@ -1,6 +1,16 @@
 # 💑 Promo 2
 
 ***
+```{toctree}
+:maxdepth: 2
+:caption: Encadrants
+:hidden:
+
+Encadrants/Isaure
+Encadrants/Vince
+
+```
+
 
 ```{toctree}
 :maxdepth: 2

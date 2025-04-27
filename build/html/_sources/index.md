@@ -61,7 +61,7 @@ content/Promo/CDP1/CDP1-Main
 
 ```{warning}
 
-- insérer le glossaire dans la partie projet
+- La documentation est générée avec {term}`Sphinx`
 
 
 ```

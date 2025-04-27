@@ -1,5 +1,20 @@
 # Glossaire
 
+## Test
+
+```{glossary}
+
+Sphinx
+  Générateur de documentation puissant pour Python et d'autres projets.
+
+GitHub Pages
+  Service d'hébergement de pages web statiques depuis un dépôt GitHub.
+
+Tooltip
+  Petit encart qui apparaît au survol d'un élément pour fournir plus d'information.
+
+```
+
 ## A
 
 ### Ad-exchange
