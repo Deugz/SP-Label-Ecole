@@ -16,6 +16,9 @@ La construction de l'arborescence d'un site web et la création d'un parcours ty
 
 ```
 
+(Projet-CDC-Preconception-Maquette)= 
+## Maquettes
+
 ```{admonition} Concevoir des wireframes pour son site sous Adobe XD
 :class: dropdown, tip
 

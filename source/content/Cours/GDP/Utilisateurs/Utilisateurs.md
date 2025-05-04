@@ -105,7 +105,16 @@ On en reparlera au chapitre suivant ([La Veille](../Veille/Veille))
 
 ## Personas
 
+<p class="p-emphase"> La meilleure façon de répondre efficacement aux besoins d’une variété d’utilisateurs est de concevoir pour des types spécifiques de personnes ayant des besoins spécifiques. </p>
+
+- Cooper, 2004
+
 ### C'est quoi ?
+
+
+- Provisional personas (Cooper, 2004)
+- Ad-hoc personas (Norman, 2004)
+- Proto personas
 
 
 ### Pourquoi les utiliser
@@ -124,6 +133,8 @@ Il en faut au moins deux qui doievent être construites sur le canva et exporté
 
 
 ```
+
+- [Apprendre à construire des personas](https://www.weloveusers.com/partage/cours/apprendre-personas.html)
 
 ```{note}
 
@@ -150,3 +161,19 @@ Créer un génially qui reprend les différentes étapes de la création:
 - **Personas infaillibles**: Les utilisateurs rêvés, qui accomplissent leurs tâches sans erreurs et lisent les manuels d'instruction.
 
 - **Les personas "ma mère"**: Ils sont basés sur la connaissance d'une personne réelle, souvent de l'entourage du concepteur (parents ou grands-parents) pour créer des profils non technophiles.
+
+
+## Pour Conclure
+
+
+### En résumé
+
+
+### Examples de bonnes fiches persona
+
+
+
+
+## En Plus
+
+- [Cours - Apprendre à construire des personas (we love users)](Docs/We-Love-Users-Personas.docx)

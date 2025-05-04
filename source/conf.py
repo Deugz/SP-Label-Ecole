@@ -36,22 +36,17 @@ extensions = [
   "sphinx_book_theme",
   "sphinx_togglebutton",
   "sphinx_thebe",
-  "sphinx.ext.intersphinx",
   "hoverxref.extension",
+  "sphinx_new_tab_link",
 ]
 
 import os
 intersphinx_mapping = {
-    'self': ('', os.path.join(os.getcwd(), 'build/html/objects.inv')),
+    'self': ('', 'objects.inv'),
 }
 
 hoverxref_auto_ref = True
 hoverxref_domains = ['std']
-
-hoverxref_intersphinx = ['self']  # ⬅️ désactive les appels externes
-
-hoverxref_theme = 'tooltip'
-hoverxref_roles = ['term']
 
 myst_enable_extensions = ["colon_fence", "linkify", "substitution"]
 myst_heading_anchors = 2
@@ -113,6 +108,6 @@ html_theme_options = {
 
 
 html_css_files = ["css/custom_style.css", "css/slider.css", "css/flash-card.css",'https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&family=Montserrat:wght@400;700&display=swap',]
-html_js_files = ["_static/assets/scripts/slider-script.js", "_static/assets/scripts/page-layout.js",]
+html_js_files = ["_static/scripts/slider-script.js", "_static/scripts/page-layout.js", ]
 
     

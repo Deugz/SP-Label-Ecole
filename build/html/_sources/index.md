@@ -8,7 +8,7 @@ html_theme.sidebar_secondary.remove: true
 ---
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 4
 :caption: Home
 :hidden:
 
@@ -16,7 +16,7 @@ content/Organisation/index-Orga
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 4
 :caption: Home
 :hidden:
 
@@ -24,7 +24,7 @@ content/Cours/index-cours
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 4
 :caption: Home
 :hidden:
 
@@ -32,7 +32,7 @@ content/Projet/index-Projet
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 4
 :caption: Home
 :hidden:
 
@@ -40,7 +40,7 @@ content/Promo/CDP2/CDP2-Main
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 4
 :caption: Home
 :hidden:
 
@@ -61,8 +61,8 @@ content/Promo/CDP1/CDP1-Main
 
 ```{warning}
 
-- La documentation est générée avec {term}`Sphinx`
-
+- La documentation est générée avec {term}`Sphinx` 
+ 
 
 ```
 

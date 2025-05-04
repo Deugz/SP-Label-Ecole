@@ -155,6 +155,42 @@ border-radius: 5px;
 
 
 
+/* Supprimer le style par défaut du lien <a> */
+a.reference.internal {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Styliser le <span> contenant le terme du glossaire */
+a.reference.internal > span.xref.std.std-term {
+  color: green;
+  text-decoration: underline dotted;
+  cursor: pointer;
+  position: relative;
+  padding-right: 1em; /* espace pour l'icône */
+  transition: color 0.2s ease-in-out;
+}
+
+/* Ajouter une icône 📘 après le terme */
+a.reference.internal > span.xref.std.std-term::after {
+  content: " 🧠";
+  position: static;
+  right: 0;
+  top: 0;
+  font-size: 0.85em;
+  opacity: 0.7;
+  pointer-events: none; /* ne gêne pas le clic */
+}
+
+/* Changement de couleur au survol */
+a.reference.internal:hover > span.xref.std.std-term {
+  color: orange;
+}
+
+
+
+
+
 
 
 

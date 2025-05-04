@@ -3,6 +3,6 @@
 ```{toctree}
 :maxdepth: 2
 
-Accessibilite/Accessibilite
+Accessibilite/Accessible
 
 ```
