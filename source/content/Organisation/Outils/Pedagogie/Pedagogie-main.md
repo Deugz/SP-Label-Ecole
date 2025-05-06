@@ -6,6 +6,7 @@
 :hidden:
 
 Animation/Animation
+Accompagnement/Accompagnement
 Classe-Virtuelle/Classe-Virtuelle
 Intelligence-Collective/IC
 

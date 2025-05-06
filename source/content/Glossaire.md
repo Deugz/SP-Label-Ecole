@@ -273,6 +273,10 @@ UI Design
 UX Design 
   User Experience Design, un UX Designer se chargera de rendre le site ou logiciel intuitif et facile à prendre en main pour optimiser l'expérience utilisateur en proposant une interface agréable à utiliser. 
 
+Veille
+  La veille est une activité de surveillance active et organisée visant à collecter, analyser et exploiter des informations stratégiques sur un environnement donné. Elle permet d’anticiper les évolutions, 
+  d’identifier des opportunités ou des menaces, et d’aider à la prise de décision.  
+
 VRML 
   De l'acronyme Virtual Reality Markup Language, VRML est un langage de programmation permettant de décrire des univers virtuels en 3 dimensions.
 
