@@ -59,7 +59,10 @@ Cache
   Le cache ou la mise en cache est le fait de stocker du contenu relatif aux recherches effectuées sur les moteurs de recherches dans les bases de données des navigateurs web. Ces données en cache permettent à 
   l'utilisateur de rapidement trouver le résultat de sa recherche grâce à l'enregistrement périodique de ses requêtes. Le cache d'un navigateur ou d'un logiciel (ex : CMS) peut s'assimiler à sa mémoire ou son 
   historique et est remis à jour régulièrement. Néanmoins, il est possible à l'utilisateur de vider manuellement son cache en cas de besoin (faire disparaître d'anciennes données, mise à jour de 
-  publications...)  
+  publications...)
+
+Cartes
+  Une carte est un conteneur graphique (souvent rectangulaire, avec ombre et bord arrondi) qui encapsule un contenu cohérent, comme un article, une info utilisateur, un événement ou un produit.
 
 Cheval de Troie
   Virus informatique prenant son modèle sur le moyen utilisé par Ulysse lors de la guerre de Troie, il s'agit d'un virus caché dans un fichier qui a l'air hors de danger. On l'appelle également Trojan.  
@@ -94,6 +97,9 @@ Culture fit
 
 Didacticiel
   Logiciel permettant de suivre un enseignement sur un thème donné.
+
+Dropdown
+  Un dropdown (ou menu déroulant en français) est un élément d’interface utilisateur qui permet à l’utilisateur de choisir une option parmi une liste cachée qui s’affiche lorsqu’on clique ou survole un bouton ou une zone de sélection.
 
 Drupal 
   CMS ou Système de Gestion de Contenu programmé en langage PHP par Dries Buytaert en 2000. Drupal est un open-source faisant partie des grands leaders sur son marché. En 2010 Drupal équipait environ 1% des 
